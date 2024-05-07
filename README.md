@@ -12,7 +12,7 @@ Contents:
 EXAM4PY.py: contains the implentation and testing of defined functions for the assignment. 
 testfile.txt: serves as an example for the actual filename that contains the sequence fragments for analysis 
 
-reads.fa: this file used in the code contains sequence data and acquired from my local path "../shared/439539/reads.fa"
+reads.fa: this file used in the code contains sequence data and was acquired from my local path "../shared/439539/reads.fa"
 
 
 
